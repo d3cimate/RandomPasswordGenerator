@@ -1,5 +1,5 @@
 # RandomPasswordGenerator
-
+  Random password generator with a few features.
 
 # Installation
   1. sudo su
